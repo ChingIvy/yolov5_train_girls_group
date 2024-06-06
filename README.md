@@ -9,7 +9,7 @@
    **2.6 cd yolov5  
    2.7 pip install -r requirements.txt  
    2.8 install the weights you want and put in folder(ex: yolov5n.pt)  
-   //train 
+   //train  
    2.9 python train.py  --batch 26 --epochs 500  --data datasets/hur.yaml --weights yolov5n.pt  
    //detect  
    **2.10 python detect.py --weight runs/train/exp/weights/best.pt  --source datasets\test  
