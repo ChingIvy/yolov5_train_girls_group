@@ -5,7 +5,7 @@
    2.2 assume working folder is D:\test.  
    2.3 python -m venv venv, this step is to create venv environment folder in D:\test, all packages are installed here.  
    **2.4 .\venv\Scripts\activate.bat  
-   2.5 git clone this github
+   2.5 git clone this github  
    **2.6 cd yolov5  
    2.7 pip install -r requirements.txt  
    2.8 install the weights you want and put in folder(ex: yolov5n.pt)  
